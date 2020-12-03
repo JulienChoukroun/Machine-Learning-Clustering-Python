@@ -10,7 +10,7 @@ Ce projet a été réalisé avec le langage Python.
 * K-means a été réalisé avec la version Scikit-learn
 * Le Spectral Clustering a été entièrement codé
 * Implémentation des connectivity graph
-* Pour l'affichage graphique, nous nous sommes servis de la Principal Component Analysis (PCA)
+* Utilisation de la Principal Component Analysis (PCA) pour l'affichage graphique
 
 Exemple de résultat avec le K-means Clustering :
 
