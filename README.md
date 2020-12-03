@@ -13,4 +13,8 @@ Ce projet a été réalisé avec le langage Python.
 
 Exemple de résultat avec le K-means Clustering :
 
-![alt text](https://github.com/JulienChoukroun/Methode-PSO-d-optimisation-par-Essaims-de-particules/blob/master/Images/pso.png "Principe de la PSO")
+![alt text](https://github.com/JulienChoukroun/Machine-Learning-Clustering-Python/blob/main/Images/K-means.png "K-means Clustering")
+
+Exemple de résultat avec le Spectral Clustering :
+
+![alt text](https://github.com/JulienChoukroun/Machine-Learning-Clustering-Python/blob/main/Images/Spectral_Clustering.png "Spectral Clustering")
