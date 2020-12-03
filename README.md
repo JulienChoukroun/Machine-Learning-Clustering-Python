@@ -6,7 +6,7 @@ Ce projet est réalisé dans le cadre de la formation de cycle d'ingénieur (deu
 Ce projet a été réalisé avec le langage Python.
 
 ### Objectifs :
-* Unsupervised classification avec K-means and Spectral Clustering
+* Unsupervised classification avec K-means and Spectral Clustering sur un dataset choisi sur OpenML
 * K-means a été réalisé avec la version Scikit-learn
 * Le Spectral Clustering a été entièrement codé
 * Implémentation des connectivity graph
